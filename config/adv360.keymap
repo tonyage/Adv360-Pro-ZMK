@@ -80,11 +80,11 @@
 
         layer_NAV {
             bindings = <
- &trans  &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans    &macro_parens           &trans         &trans
- &trans  &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans           &trans  &kp PRINTSCREEN         &trans
- &trans  &trans    &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp UP        &kp RIGHT           &trans  &macro_quotes
- &trans  &trans    &trans  &trans  &trans  &trans                            &trans                  &trans                    &trans    &trans  &trans           &trans           &trans         &trans
- &trans  &trans  &kp CAPS  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans              &trans  &trans  &macro_brackets           &trans         &trans
+ &trans     &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans    &macro_parens           &trans         &trans
+ &trans     &trans    &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans           &trans  &kp PRINTSCREEN         &trans
+ &trans     &trans    &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp UP        &kp RIGHT           &trans  &macro_quotes
+ &trans  &kp MINUS    &trans  &trans  &trans  &trans                            &trans                  &trans                    &trans    &trans  &trans           &trans           &trans         &trans
+ &trans     &trans  &kp CAPS  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans              &trans  &trans  &macro_brackets           &trans         &trans
             >;
         };
 
